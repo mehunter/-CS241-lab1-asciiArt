@@ -1,0 +1,15 @@
+Matt Hunter
+Computer Science
+mhunter@cs.unm.edu
+I want to get familiar with a language that is 'closer to the metal' than
+java.
+
+ /$$      /$$             /$$     /$$    
+| $$$    /$$$            | $$    | $$    
+| $$$$  /$$$$  /$$$$$$  /$$$$$$ /$$$$$$  
+| $$ $$/$$ $$ |____  $$|_  $$_/|_  $$_/  
+| $$  $$$| $$  /$$$$$$$  | $$    | $$    
+| $$\  $ | $$ /$$__  $$  | $$ /$$| $$ /$$
+| $$ \/  | $$|  $$$$$$$  |  $$$$/|  $$$$/
+|__/     |__/ \_______/   \___/   \___/
+
